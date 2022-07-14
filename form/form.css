@@ -1,13 +1,6 @@
-#explore-html-5-heading{
+#pitha-form-1{
+margin-top: 50px;
 
-    margin-top: 50px;
-}
-
-
-#video-two{
-    position: relative;
-   left: 15%;
-    
 }
 #nav-dashboard{
     text-decoration: none;
@@ -36,5 +29,14 @@
         background-color: blueviolet;
         color: white;  
      }
-
+     #nav-semantic{
+        text-decoration: none;
+        margin:0% 7% 0% 0%;
+        border-radius: 7px;
+        border: 2px solid black;
+        padding: 5px 10px 5px 10px;
+        background-color: blueviolet;
+        color: white;  
+    }
+    
 
