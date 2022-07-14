@@ -1,0 +1,36 @@
+#welcome-1{
+
+    margin-top: 50px;
+}
+
+
+#nav-dashboard{
+text-decoration: none;
+margin:0% 7% 0% 0%;
+border-radius: 7px;
+border: 2px solid black;
+padding: 5px 10px 5px 10px;
+background-color: blueviolet;
+color: white;
+
+}
+#nav-form{
+text-decoration: none;
+margin:0% 7% 0% 0%;
+border-radius: 7px;
+border: 2px solid black;
+padding: 5px 10px 5px 10px;
+background-color: blueviolet;
+color: white;
+    
+}
+
+#nav-table{
+    text-decoration: none;
+    margin:0% 7% 0% 0%;
+    border-radius: 7px;
+    border: 2px solid black;
+    padding: 5px 10px 5px 10px;
+    background-color: blueviolet;
+    color: white;  
+}

@@ -1,19 +1,40 @@
+#explore-html-5-heading{
+
+    margin-top: 50px;
+}
+
+
 #video-two{
     position: relative;
-    left: 400px;
+   left: 15%;
     
 }
+#nav-dashboard{
+    text-decoration: none;
+    margin:0% 7% 0% 0%;
+    border-radius: 7px;
+    border: 2px solid black;
+    padding: 5px 10px 5px 10px;
+    background-color: blueviolet;
+    color: white;    
+    }
+    #nav-form{
+     text-decoration: none;
+     margin:0% 7% 0% 0%;
+     border-radius: 7px;
+     border: 2px solid black;
+     padding: 5px 10px 5px 10px;
+     background-color: blueviolet;
+     color: white;
+    }
+    #nav-table{
+        text-decoration: none;
+        margin:0% 7% 0% 0%;
+        border-radius: 7px;
+        border: 2px solid black;
+        padding: 5px 10px 5px 10px;
+        background-color: blueviolet;
+        color: white;  
+     }
 
 
-table{
-    border-collapse: collapse;
-}
-th{
-    border: 1px solid gray;
-    padding: 2px 10px 2px 10px;
-}
-td{
-
-    border: 1px solid gray;
-    padding: 2px 10px 2px 10px;
-}
